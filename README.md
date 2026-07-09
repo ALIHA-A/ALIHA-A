@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ali Ayoubi</h1>
+<h1 align="center">👋Hi, I'm Ali Ayoubi</h1>
 
 <h3 align="center">📷 Currently learning Image Processing & Computer Vision</h3>
 
