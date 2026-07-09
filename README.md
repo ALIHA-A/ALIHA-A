@@ -17,7 +17,10 @@
 ---
 
 <details>
-<summary><b>✨ Curious about my other tools? Click here 👀</b></summary>
+
+<summary align="center">
+<b>✨ Curious about my other tools? Click here 👀</b>
+</summary>
 
 <br>
 
