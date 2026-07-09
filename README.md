@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ali Ayoubi</h1>
 
-<!--
-**ALIHA-A/ALIHA-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📷 Currently learning Image Processing & Computer Vision</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,django,html" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+</p>
+
+---
+
+<details>
+<summary><b>✨ Curious about my other tools? Click here 👀</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" />
+</p>
+
+</details>
+
+---
+
+<p align="center">
+  <i>"Every line of code is another step toward building intelligent systems."</i> 🚀
+</p>
