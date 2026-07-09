@@ -19,7 +19,7 @@
 <details>
 
 <summary align="center">
-<b>✨ Curious about my other tools? Click here 👀</b>
+<b>Other Skills 👀</b>
 </summary>
 
 <br>
