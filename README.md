@@ -4,7 +4,7 @@
 
 <br>
 
-## 🚀 My Skills
+<h2 align="center">🚀 My Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,django,html" />
